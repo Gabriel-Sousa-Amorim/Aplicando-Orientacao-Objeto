@@ -161,7 +161,7 @@ Dicas para compreender melhor o texto são
 - **IV - Questionar pertimente o texto;**
 - **V - Monitorar a leitura.**
 
-## Semana 4 - Coesão e coerência (IMCOMPLETO)
+## Semana 4 - Coesão e coerência (INCOMPLETO)
 
 Existem critérios de textualidade como a coesão, a coerência e a informatividade
 
